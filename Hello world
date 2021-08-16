@@ -1,0 +1,15 @@
++class svar01 {
+
+
+public static void main(String[] args) {
+System.out.println("Hello, Word æøå ÆØÅ!");
+
+
+
+System.out.println( 0.3 == 0.1 + 0.1 + 0.1 );
+//man skal huske at 0.1 ikke bliver repræsenteret som binært
+//10 tals systemet og flydende tal virker ikke
+
+
+}
+}
